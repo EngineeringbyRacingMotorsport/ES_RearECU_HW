@@ -32,9 +32,12 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+*.pdf
 
 # Archived Backups (KiCad 6.0)
 **/*-backups/*.zip
+*.zip
+DRL+GRB/
 
 # Local git-based history (KiCad 9.0+)
 .history
